@@ -1,11 +1,12 @@
 
 ````markdown
-# 📊 MLS Character Data Analytics & Quality Assurance
+
+#  MLS Character Data Analytics & Quality Assurance
 
 Understanding structured data is critical in real estate technology and MLS operations.  
 
-This project simulates a **real-world MLS data workflow** using a fictional character dataset,
-covering **data ingestion, API fetching, cleaning, SQL analysis, and interactive visualization**.
+This project simulates a real-world MLS data workflow using a fictional character dataset,
+covering data ingestion, API fetching, cleaning, SQL analysis, and interactive visualization.
 
 ---
 
@@ -20,19 +21,18 @@ To demonstrate **end-to-end data management and analytics**, simulating MLS oper
 
 ---
 
-## 🔍 Project Workflow (Step-by-Step)
+
+##  Project Workflow (Step-by-Step)
 
 ### 1️⃣ Python API Data Fetching & Cleaning
 - Used Python to fetch data from a REST API endpoint (simulating MLS/RETS/RESO feeds).  
 - Converted nested JSON data into a **flat Pandas DataFrame** with fields: `id`, `first_name`, `middle_name`, `last_name`, `age`, `gender`, `species`, `homePlanet`, `occupation`, `image_url`.  
+
 - Cleaned and normalized data:  
   - Converted ages to float.  
   - Standardized gender and species categories.  
   - Split nested fields into separate columns.  
   - Handled missing values and duplicates.  
-
-![Python Data Cleaning Example](https://github.com/Abdulrasheed055/MLS-Character-Data-Analytics-Quality-Assurance/blob/main/api.png)
-![Python Data Cleaning Example](https://github.com/Abdulrasheed055/MLS-Character-Data-Analytics-Quality-Assurance)
 ---
 
 ### 2️⃣ Data Storage in PostgreSQL
@@ -167,14 +167,14 @@ LIMIT 1;
 * Streamlit dashboard enables **interactive stakeholder insights** for data-driven decision-making.
 
 ---
-### load api data
+### Load api data
 ![Python Data Cleaning Example](https://github.com/Abdulrasheed055/MLS-Character-Data-Analytics-Quality-Assurance/blob/main/api.png)
-###  data cleaning
+###  Data cleaning
 ![Python Data Cleaning Example](https://github.com/Abdulrasheed055/MLS-Character-Data-Analytics-Quality-Assurance/blob/main/datacleaning.png)
-###  data connected to sql
+###  Data connected to sql
 ![Python Data Cleaning Example](https://github.com/Abdulrasheed055/MLS-Character-Data-Analytics-Quality-Assurance/blob/main/connect.png)
 
-![Streamlit Dashboard Example](https://raw.githubusercontent.com/YourUsername/YourRepo/main/streamlit_dashboard.png)
+
 ## 🛠 Tools & Skills Used
 
 * **Data Cleaning & Preprocessing:** Python (Pandas, NumPy)
