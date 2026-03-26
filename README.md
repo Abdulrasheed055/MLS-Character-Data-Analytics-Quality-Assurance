@@ -31,7 +31,7 @@ To demonstrate **end-to-end data management and analytics**, simulating MLS oper
   - Split nested fields into separate columns.  
   - Handled missing values and duplicates.  
 
-![Python Data Cleaning Example](https://github.com/Abdulrasheed055/MLS-Character-Data-Analytics-Quality-Assurance)
+![Python Data Cleaning Example](https://github.com/Abdulrasheed055/MLS-Character-Data-Analytics-Quality-Assurance/blob/main/api.png)
 ![Python Data Cleaning Example](https://github.com/Abdulrasheed055/MLS-Character-Data-Analytics-Quality-Assurance)
 ---
 
@@ -141,7 +141,7 @@ LIMIT 1;
   * Key metrics: Total Records, Average Age, Max Age
 
 ![Streamlit Dashboard Example](https://raw.githubusercontent.com/YourUsername/YourRepo/main/streamlit_dashboard.png)
-![Python Data Cleaning Example](https://github.com/Abdulrasheed055/MLS-Character-Data-Analytics-Quality-Assurance)
+![Python Data Cleaning Example](https://github.com/Abdulrasheed055/MLS-Character-Data-Analytics-Quality-Assurance/blob/main/api.png)
 
 ---
 
