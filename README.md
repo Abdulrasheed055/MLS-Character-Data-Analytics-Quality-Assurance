@@ -179,7 +179,7 @@ LIMIT 1;
 ## Streamlit Dashboard
 ![Python Data Cleaning Example](https://github.com/Abdulrasheed055/MLS-Character-Data-Analytics-Quality-Assurance/blob/main/dashbopard.png)
 
-![Python Data Cleaning Example](https://github.com/Abdulrasheed055/MLS-Character-Data-Analytics-Quality-Assurance/blob/main/dashbopard.png)
+![Python Data Cleaning Example](https://github.com/Abdulrasheed055/MLS-Character-Data-Analytics-Quality-Assurance/blob/main/dashboard2.png)
 
 
 
