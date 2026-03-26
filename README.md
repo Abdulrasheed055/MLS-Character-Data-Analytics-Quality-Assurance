@@ -11,13 +11,13 @@ covering data ingestion, API fetching, cleaning, SQL analysis, and interactive v
 ---
 
 ## 🎯 Project Objective
-To demonstrate **end-to-end data management and analytics**, simulating MLS operations:
+To demonstrate end-to-end data management and analytics, simulating MLS operations:
 
 - Fetch structured data from an API and clean it in Python.  
 - Store and normalize data in PostgreSQL.  
 - Perform SQL-based exploratory analysis and generate key metrics.  
 - Build an interactive dashboard using Streamlit for visualization and decision-making.  
-- Highlight **data quality, normalization, and insights extraction**, applicable to real estate data pipelines.
+- Highlight data quality, normalization, and insights extraction, applicable to real estate data pipelines.
 
 ---
 
