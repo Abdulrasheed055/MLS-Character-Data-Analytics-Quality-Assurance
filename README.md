@@ -167,11 +167,13 @@ LIMIT 1;
 * Streamlit dashboard enables **interactive stakeholder insights** for data-driven decision-making.
 
 ---
-
+### load api data
 ![Python Data Cleaning Example](https://github.com/Abdulrasheed055/MLS-Character-Data-Analytics-Quality-Assurance/blob/main/api.png)
+###  data cleaning
 ![Python Data Cleaning Example](https://github.com/Abdulrasheed055/MLS-Character-Data-Analytics-Quality-Assurance/blob/main/datacleaning.png)
-
+###  data connected to sql
 ![Python Data Cleaning Example](https://github.com/Abdulrasheed055/MLS-Character-Data-Analytics-Quality-Assurance/blob/main/connect.png)
+
 ![Streamlit Dashboard Example](https://raw.githubusercontent.com/YourUsername/YourRepo/main/streamlit_dashboard.png)
 ## 🛠 Tools & Skills Used
 
