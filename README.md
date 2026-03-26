@@ -31,8 +31,8 @@ To demonstrate **end-to-end data management and analytics**, simulating MLS oper
   - Split nested fields into separate columns.  
   - Handled missing values and duplicates.  
 
-![Python Data Cleaning Example](https://raw.githubusercontent.com/YourUsername/YourRepo/main/python_data_cleaning.png)
-
+![Python Data Cleaning Example](https://github.com/Abdulrasheed055/MLS-Character-Data-Analytics-Quality-Assurance)
+![Python Data Cleaning Example](https://github.com/Abdulrasheed055/MLS-Character-Data-Analytics-Quality-Assurance)
 ---
 
 ### 2️⃣ Data Storage in PostgreSQL
