@@ -174,6 +174,9 @@ LIMIT 1;
 ###  Data connected to sql
 ![Python Data Cleaning Example](https://github.com/Abdulrasheed055/MLS-Character-Data-Analytics-Quality-Assurance/blob/main/connect.png)
 
+![Python Data Cleaning Example](https://github.com/Abdulrasheed055/MLS-Character-Data-Analytics-Quality-Assurance/blob/main/sql.png)
+
+
 
 ## 🛠 Tools & Skills Used
 
