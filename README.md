@@ -4,7 +4,8 @@
 
 Understanding structured data is critical in real estate technology and MLS operations.  
 
-This project simulates a **real-world MLS data workflow** using a fictional character dataset, covering **data ingestion, API fetching, cleaning, SQL analysis, and interactive visualization**.
+This project simulates a **real-world MLS data workflow** using a fictional character dataset,
+covering **data ingestion, API fetching, cleaning, SQL analysis, and interactive visualization**.
 
 ---
 
