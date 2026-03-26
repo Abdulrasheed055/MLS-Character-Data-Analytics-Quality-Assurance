@@ -140,8 +140,8 @@ LIMIT 1;
   * **Average Age by Species** chart
   * Key metrics: Total Records, Average Age, Max Age
 
-![Streamlit Dashboard Example](https://raw.githubusercontent.com/YourUsername/YourRepo/main/streamlit_dashboard.png)
-![Python Data Cleaning Example](https://github.com/Abdulrasheed055/MLS-Character-Data-Analytics-Quality-Assurance/blob/main/api.png)
+
+
 
 ---
 
@@ -168,6 +168,11 @@ LIMIT 1;
 
 ---
 
+![Python Data Cleaning Example](https://github.com/Abdulrasheed055/MLS-Character-Data-Analytics-Quality-Assurance/blob/main/api.png)
+![Python Data Cleaning Example](https://github.com/Abdulrasheed055/MLS-Character-Data-Analytics-Quality-Assurance/blob/main/datacleaning.png)
+
+![Python Data Cleaning Example](https://github.com/Abdulrasheed055/MLS-Character-Data-Analytics-Quality-Assurance/blob/main/connect.png)
+![Streamlit Dashboard Example](https://raw.githubusercontent.com/YourUsername/YourRepo/main/streamlit_dashboard.png)
 ## 🛠 Tools & Skills Used
 
 * **Data Cleaning & Preprocessing:** Python (Pandas, NumPy)
